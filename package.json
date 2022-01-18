@@ -1,0 +1,23 @@
+{
+    "name": "finalprojectppl",
+    "version": "1.0.0",
+    "description": "Pengujian terhadap website https://www.lms.polinema.ac.id menggunakan tools cypress",
+    "main": "index.js",
+    "dependencies": {},
+    "devDependencies": {
+        "cypress": "^4.12.1"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ferdyfebriyanto/FinalProjectPPL.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/ferdyfebriyanto/FinalProjectPPL/issues"
+    },
+    "homepage": "https://github.com/ferdyfebriyanto/FinalProjectPPL#readme"
+}
